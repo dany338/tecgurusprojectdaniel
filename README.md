@@ -1,6 +1,6 @@
 # tecgurusprojectdaniel
 
-A new Flutter project.
+Project the flutter from tecgurus
 
 ## Getting Started
 
